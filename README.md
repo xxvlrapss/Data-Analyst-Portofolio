@@ -12,6 +12,6 @@ Sebagai Analis Data, saya yakin bahwa kekuatan data yang sesungguhnya terletak p
 
 Setiap analisis yang saya lakukan dirancang untuk menghasilkan wawasan yang relevan dan memfasilitasi pengambilan keputusan strategis yang berdampak positif bagi para pemangku kepentingan.
 
-Saya telah menyusun portofolio ini sebagai bukti dedikasi, kemahiran teknis, dan kemampuan analitis saya dalam mengelola data secara komprehensif mulai dari pengumpulan, pembersihan, eksplorasi, visualisasi, hingga interpretasi hasil.\
+Saya telah menyusun portofolio ini sebagai bukti dedikasi, kemahiran teknis, dan kemampuan analitis saya dalam mengelola data secara komprehensif mulai dari pengumpulan, pembersihan, eksplorasi, visualisasi, hingga interpretasi hasil.
 
 Dengan fokus pada solusi, saya siap memberikan kontribusi yang signifikan bagi perusahaan dan industri tempat saya berkecimpung, sekaligus membangun reputasi sebagai Analis Data yang andal dan berintegritas.
