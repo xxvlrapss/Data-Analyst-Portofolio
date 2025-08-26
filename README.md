@@ -1,17 +1,81 @@
-As a Data Analyst, I hold the conviction that the true strength of data resides in its capacity to deliver clear, precise, and unequivocal information.
+# 📊 Data Analyst Portfolio – Dimas Prayoga  
 
-Each analysis I perform is designed to yield pertinent insights and facilitate strategic decision-making that has a beneficial effect on stakeholders.
+As a **Data Analyst**, I believe that the true strength of data lies in its ability to deliver clear, precise, and actionable insights.  
+Each project in this portfolio demonstrates my ability to transform raw data into meaningful stories that drive strategic decision-making.  
 
-I have assembled this portfolio as evidence of my dedication, technical proficiency, and analytical abilities in managing data comprehensively from collection, cleaning, exploration, and visualization to the interpretation of results.
+📌 *Bilingual Statement*  
+- **English**: Focused on delivering accurate insights and business-driven solutions through data analysis, visualization, and modeling.  
+- **Indonesia**: Berfokus pada penyajian insight yang akurat dan solusi bisnis berbasis data melalui analisis, visualisasi, dan pemodelan.  
 
-With a focus on solutions, I am prepared to make a significant contribution to the company and industry I am involved with, while establishing a reputation as a dependable and integrity-focused Data Analyst.
+---
 
-//
+## 🛠 Skills & Tools  
 
-Sebagai Analis Data, saya yakin bahwa kekuatan data yang sesungguhnya terletak pada kemampuannya untuk memberikan informasi yang jelas, tepat, dan tegas.
+- **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL  
+- **Visualization & BI**: Tableau, Power BI, Matplotlib, Seaborn, Plotly  
+- **Data Handling**: Excel (Advanced), Google Sheets, BigQuery  
+- **Methods**: EDA, Statistical Analysis, Hypothesis Testing, Machine Learning Basics  
 
-Setiap analisis yang saya lakukan dirancang untuk menghasilkan wawasan yang relevan dan memfasilitasi pengambilan keputusan strategis yang berdampak positif bagi para pemangku kepentingan.
+---
 
-Saya telah menyusun portofolio ini sebagai bukti dedikasi, kemahiran teknis, dan kemampuan analitis saya dalam mengelola data secara komprehensif mulai dari pengumpulan, pembersihan, eksplorasi, visualisasi, hingga interpretasi hasil.
+## 📂 Portfolio Projects  
 
-Dengan fokus pada solusi, saya siap memberikan kontribusi yang signifikan bagi perusahaan dan industri tempat saya berkecimpung, sekaligus membangun reputasi sebagai Analis Data yang andal dan berintegritas.
+### 1. 💳 Credit Card Fraud Detection  
+- Built models (Logistic Regression, Random Forest) to detect fraudulent transactions.  
+- Tackled extreme class imbalance with resampling techniques.  
+- 📊 [Interactive Dashboard](https://public.tableau.com/views/Visualisasi_Analysis_CreditCardFraudDetectionMLGULB/Dashboard1)  
+- 🔗 [Repo](https://github.com/xxvlrapss/analyst-credit-card-fraud-detection)  
+
+---
+
+### 2. 🛍️ E-Commerce Clothing Review Analysis  
+- NLP & EDA on customer reviews dataset.  
+- Identified top-rated products and key age demographics for marketing.  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce)  
+- 🔗 [Repo](https://github.com/xxvlrapss/women-ecommerce-clothing-review)  
+
+---
+
+### 3. 📞 Telecom Customer Churn Prediction  
+- Modeled churn risk using Logistic Regression & Random Forest.  
+- Insights: month-to-month contracts & e-check payments are high churn drivers.  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/visualisasi_churn_telecom_customer/Dashboard1)  
+- 🔗 [Repo](https://github.com/xxvlrapss/telecom-customer-churn)  
+
+---
+
+### 4. 🏦 Portuguese Bank Marketing Campaign  
+- Predictive modeling of deposit subscription.  
+- Insights: call duration & macroeconomic features are strong predictors.  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualization_Bank_Marketing/Dashboard1)  
+- 🔗 [Repo](https://github.com/xxvlrapss/portuguese_bank_marketing)  
+
+---
+
+### 5. 🌍 Global Data Jobs 2024  
+- Analysis of worldwide job postings in 2024.  
+- Found IT, Finance, and Healthcare as the most in-demand industries.  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/WorldWide_Data_Job-2024/Dashboard1)  
+- 🔗 [Repo](https://github.com/xxvlrapss/global-data-jobs-2024)  
+
+---
+
+### 6. 🌱 Air Quality in North Sumatra (2022)  
+- Regional-level IKU (Air Quality Index) analysis.  
+- Found urban areas underperforming compared to rural regions.  
+- 📊 [Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualisasi_indeks_kualitas_udara_sumut_2022/Dashboard1)  
+- 🔗 [Repo](https://github.com/xxvlrapss/air_quality_north_sumatra_2022)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin)](https://www.linkedin.com/in/dimas-prayogaa/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dimas%20Prayoga-blue?logo=kaggle)](https://www.kaggle.com/dimasprayoga)  
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-blue?logo=tableau)](https://public.tableau.com/app/profile/dimas.prayoga7117)  
+[![Email](https://img.shields.io/badge/Email-dimassprayoga08%40gmail.com-red?logo=gmail)](mailto:dimassprayoga08@gmail.com)  
+
+---
+
+💡 *"In God we trust, all others bring data." – W. Edwards Deming*  
+🔥 *Fortis Fortuna Adiuvat*  
