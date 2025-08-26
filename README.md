@@ -68,6 +68,14 @@ Each project in this portfolio demonstrates my ability to transform raw data int
 
 ---
 
+### 7. 📉 Unemployment by Age in Indonesia (2021–2024)  
+- Analyzed unemployment trends in Indonesia segmented by **age groups** across 2021–2024.  
+- Found that the **15–24 age group** consistently has the highest unemployment rate, indicating challenges for young job seekers.  
+- Middle-aged groups (25–44) showed more stability, while senior groups (45+) experienced lower unemployment.  
+- 📊 [Notebook](https://github.com/xxvlrapss/Data-Analyst-Portofolio/blob/main/unemployment-by-age-in-indonesia-2021-2024.ipynb)  
+
+---
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin)](https://www.linkedin.com/in/dimas-prayogaa/)  
